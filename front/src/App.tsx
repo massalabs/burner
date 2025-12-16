@@ -251,7 +251,18 @@ function App() {
             </div>
             <div>
               <strong style={{ color: 'var(--color-fire-red)' }}>3. Burn It!</strong>
-              <p>Your MAS is sent to the null address, permanently removing it from circulation.</p>
+              <p>
+                Your MAS is sent to the{' '}
+                <a 
+                  href="https://explorer.massa.net/mainnet/address/AU1111111111111111111111111111111112m1s9K/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ color: 'var(--color-fire-yellow)', textDecoration: 'underline' }}
+                >
+                  null address
+                </a>
+                {' '}(AU111...m1s9K), permanently removing it from circulation. No one can access these funds ever again!
+              </p>
             </div>
           </div>
         </div>
