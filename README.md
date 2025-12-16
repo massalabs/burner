@@ -57,7 +57,7 @@ SECRET_KEY=your_secret_key npx @massalabs/deweb-cli upload dist -y --accept_disc
 ## Deployed Addresses (Mainnet)
 
 - **Smart Contract**: `AS14T6cJRdt8FaNDo7f3AhhAv6gt8zWMT8tFuSsDgp7GxEeW26Xt`
-- **DeWeb Frontend**: `AS12SzwQS54KQ8kutEDcQEtrScwA5PPA1zFvvf2RQHSpEbrfcD4W5`
+- **DeWeb Frontend**: `AS1FqcKkqgML4nnL41waHbv2sAkrrskMwAhDdiVybhtyDDvuNVjc`
 
 ## License
 
