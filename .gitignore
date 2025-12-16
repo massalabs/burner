@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+.env.*
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Wallet files (sensitive)
+wallet.yaml
+*.wallet
+deweb_config.json
+
+# TypeScript cache
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# Test coverage
+coverage/
+
+# Deployed addresses (environment specific)
+deployed_address.txt
